@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="left">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10"></p>
+</div>
+
 <!--
 **ControlNet/ControlNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
