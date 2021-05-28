@@ -7,7 +7,7 @@
 <p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
 
-🎓 I'm a new student studying in the computer science and information technology area. Now I mainly learning
+🎓 I'm a new student studying in computer science and information technology area. Now I am mainly learning
  -  Computer Vision
  -  Machine Learning
  -  Data Science 
