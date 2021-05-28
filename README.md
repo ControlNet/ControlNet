@@ -1,5 +1,10 @@
 ## 💛 ControlNet
+<div align="center">
+ <img src="https://img.shields.io/github/followers/ControlNet?style=flat-square&color=lightblue">
+ <img src="https://img.shields.io/github/stars/ControlNet?style=flat-square&color=red">
+</div>
 
+<p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
 
 🎓 I'm a new student studying in the computer science and information technology area. Now I mainly learning
@@ -19,8 +24,8 @@
 
  - <img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=Python&style=flat-square&logoColor=white">
 
-   - <img align="center" src="https://img.shields.io/badge/PyCharm-006600?logo=PyCharm&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&style=flat-square&logoColor=white">
-   - <img align="center" src="https://img.shields.io/badge/NumPy-013243?logo=Numpy&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=PyTorch%20Lightning&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Sklearn-F7931E?logo=scikit-learn&style=flat-square&logoColor=black">
+   - <img align="center" src="https://img.shields.io/badge/PyCharm-006600?logo=PyCharm&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&style=flat-square&logoColor=white">
+   - <img align="center" src="https://img.shields.io/badge/NumPy-013243?logo=Numpy&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/pandas-150458?logo=pandas&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=PyTorch%20Lightning&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Sklearn-F7931E?logo=scikit-learn&style=flat-square&logoColor=black">
   
  - <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&logoColor=black"> 
 
@@ -30,7 +35,14 @@
  - <img align="center" src="https://img.shields.io/badge/R-276DC3?logo=R&style=flat-square&logoColor=white">
  - <img align="center" src="https://img.shields.io/badge/Java-007396?logo=Java&style=flat-square&logoColor=white">
 
-   - <img align="center" src="https://img.shields.io/badge/IDEA-8C201E?logo=IntelliJ%20IDEA&style=flat-square"> <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&style=flat-square&logoColor=white">
+   - <img align="center" src="https://img.shields.io/badge/IDEA-8C201E?logo=IntelliJ%20IDEA&style=flat-square"> <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&style=flat-square&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&style=flat-square&logoColor=white">
+
+## 📮 Contact
+
+<div align="center">
+  <a href="mailto:smczx@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-Hotmail-yellowgreen?logo=minutemailer&style=for-the-badge"></a>
+  <a href="https://controlnet.space"><img align="center" src="https://img.shields.io/badge/Blog-ControlNet-lightblue?logo=hexo&style=for-the-badge">
+</div>
 
 <!--
 **ControlNet/ControlNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
