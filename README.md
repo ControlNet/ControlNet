@@ -44,6 +44,9 @@
   <a href="https://controlnet.space"><img align="center" src="https://img.shields.io/badge/Blog-ControlNet-lightblue?logo=hexo&style=for-the-badge">
 </div>
 
+<p></p>
+ 
+<div align="center"><img align="center" src="https://count.getloli.com/get/@ControlNet?theme=rule34"></div>
 <!--
 **ControlNet/ControlNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
