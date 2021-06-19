@@ -54,7 +54,7 @@
                         src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://scikit-learn.org/" rel="nofollow"><img
                         align="center"
-                        src="https://img.shields.io/badge/Sklearn-F7931E?logo=scikit-learn&style=flat-square&logoColor=black"
+                        src="https://img.shields.io/badge/Sklearn-F7931E?logo=scikit-learn&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a></li>
         </ul>
     </li>
@@ -69,11 +69,11 @@
                         align="center"
                         src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://nodejs.org/" rel="nofollow"><img align="center"
-                        src="https://img.shields.io/badge/Node.js-339933?logo=Node-dot-js&style=flat-square&logoColor=white"
+                        src="https://img.shields.io/badge/Node.js-339933?logo=Nodedotjs&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://www.npmjs.com/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/npm-CB3837?logo=npm&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://rollupjs.org/" rel="nofollow"><img align="center"
-                        src="https://img.shields.io/badge/rollup.js-EC4A3F?logo=rollup-dot-js&style=flat-square&logoColor=white"
+                        src="https://img.shields.io/badge/rollup.js-EC4A3F?logo=rollupdotjs&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://webpack.js.org/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&style=flat-square&logoColor=black"
@@ -81,7 +81,7 @@
             <li><a href="https://jquery.com/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://d3js.org/" rel="nofollow"><img align="center"
-                        src="https://img.shields.io/badge/d3.js-F9A03C?logo=d3-dot-js&style=flat-square&logoColor=black"
+                        src="https://img.shields.io/badge/d3.js-F9A03C?logo=d3dotjs&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a></li>
         </ul>
     </li>
