@@ -61,13 +61,13 @@
     <li>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img align="center"
                     src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&logoColor=black"
-                    style="max-width:100%;"></a>
+                    style="max-width:100%;"></a> <a href="https://www.typescriptlang.org/" rel="nofollow"><img
+                        align="center"
+                        src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&logoColor=white"
+                        style="max-width:100%;"></a> 
         <ul>
             <li><a href="https://www.jetbrains.com/webstorm/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/WebStorm-00A2A2?logo=WebStorm&style=flat-square&logoColor=white"
-                        style="max-width:100%;"></a> <a href="https://www.typescriptlang.org/" rel="nofollow"><img
-                        align="center"
-                        src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://nodejs.org/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/Node.js-339933?logo=Nodedotjs&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://www.npmjs.com/" rel="nofollow"><img align="center"
@@ -93,19 +93,21 @@
     <li>
         <a href="https://www.java.com/" rel="nofollow"><img align="center"
                     src="https://img.shields.io/badge/Java-007396?logo=Java&style=flat-square&logoColor=white"
-                    style="max-width:100%;"></a>
-        <ul>
-            <li><a href="https://www.jetbrains.com/idea/" rel="nofollow"><img align="center"
-                        src="https://img.shields.io/badge/IDEA-8C201E?logo=IntelliJ%20IDEA&style=flat-square"
-                        style="max-width:100%;"></a> <a href="https://kotlinlang.org/" rel="nofollow"><img
+                    style="max-width:100%;"></a> <a href="https://kotlinlang.org/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://www.scala-lang.org/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&style=flat-square&logoColor=white"
+                        style="max-width:100%;"></a> 
+        <ul>
+            <li><a href="https://www.jetbrains.com/idea/" rel="nofollow"><img align="center"
+                        src="https://img.shields.io/badge/IDEA-8C201E?logo=IntelliJ%20IDEA&style=flat-square"
                         style="max-width:100%;"></a> <a href="https://gradle.org/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a></li>
+            <li><a href="https://spark.apache.org/" ref="nofollow"><img align="center"
+                        src="https://img.shields.io/badge/Spark-E25A1C?logo=ApacheSpark&style=flat-square&logoColor=white"></li>
         </ul>
     </li>
 </ul>
