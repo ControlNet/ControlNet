@@ -21,7 +21,7 @@
 
 ## 💾 Programming Languages and Tools
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
 
 <ul>
     <li>
