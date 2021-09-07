@@ -14,7 +14,7 @@
  -  Data Science 
  -  Computer Science
 
-🔎 Reviewer of IEEE TAC, CVIP.
+🔎 Reviewer of IEEE TAFFC, CVIP.
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
