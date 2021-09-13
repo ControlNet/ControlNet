@@ -14,7 +14,7 @@
  -  Data Science 
  -  Computer Science
 
-🔎 Reviewer of IEEE TAFFC, CVIP, ICVGIP.
+🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), CVIP, ICVGIP.
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
