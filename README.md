@@ -84,6 +84,8 @@
                         src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://d3js.org/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/d3.js-F9A03C?logo=d3dotjs&style=flat-square&logoColor=white"
+                        style="max-width:100%;"></a> <a href="https://vuejs.org/" rel="nofollow"><img align="center"
+                        src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a></li>
         </ul>
     </li>
