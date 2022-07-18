@@ -79,6 +79,9 @@
                         style="max-width:100%;"></a> <a href="https://webpack.js.org/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&style=flat-square&logoColor=black"
+                        style="max-width:100%;"></a> <a href="https://vitejs.dev/" rel="nofollow"><img
+                        align="center"
+                        src="https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a></li>
             <li><a href="https://jquery.com/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white"
