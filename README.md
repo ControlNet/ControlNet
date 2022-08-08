@@ -99,7 +99,7 @@
     </li>
     <li>
         <a href="https://www.java.com/" rel="nofollow"><img align="center"
-                    src="https://img.shields.io/badge/Java-007396?logo=Java&style=flat-square&logoColor=white"
+                    src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&style=flat-square&logoColor=white"
                     style="max-width:100%;"></a> <a href="https://kotlinlang.org/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&style=flat-square&logoColor=white"
