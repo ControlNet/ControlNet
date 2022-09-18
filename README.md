@@ -14,7 +14,7 @@
  -  Data Science 
  -  Computer Science
 
-🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [ACM ICMI](https://dl.acm.org/conference/icmi), CVIP, ICVGIP.
+🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [ACM ICMI](https://dl.acm.org/conference/icmi), DICTA, CVIP, ICVGIP.
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
