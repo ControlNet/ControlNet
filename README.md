@@ -50,7 +50,7 @@
                         src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://www.pytorchlightning.ai/" rel="nofollow"><img
                         align="center"
-                        src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=PyTorch%20Lightning&style=flat-square&logoColor=white"
+                        src="https://img.shields.io/badge/Lightning-792EE5?logo=PyTorch%20Lightning&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://www.tensorflow.org/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white"
