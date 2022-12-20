@@ -6,7 +6,7 @@
 </div>
 
 <p></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
+<img align="right" src="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
 
 🎓 I'm a new student studying in computer science and information technology area. Now I am mainly learning
  -  Computer Vision
@@ -23,7 +23,7 @@
 
 ## 💾 Programming Languages and Tools
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+<img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
 
 <ul>
     <li>
