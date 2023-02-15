@@ -57,6 +57,9 @@
                         style="max-width:100%;"></a> <a href="https://scikit-learn.org/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/Sklearn-F7931E?logo=scikit-learn&style=flat-square&logoColor=white"
+                        style="max-width:100%;"></a> <a href="https://fastapi.tiangolo.com/" rel="nofollow"><img
+                        align="center"
+                        src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a></li>
         </ul>
     </li>
