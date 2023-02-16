@@ -20,6 +20,8 @@
 
 🧰 Also, I love discovering and fine-tuning tools in my hand; both software tools and physical tools. 
 
+🔔 [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) is a great work and uses the same name, but it's unrelated to me.
+
 
 ## 💾 Programming Languages and Tools
 
