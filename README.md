@@ -6,7 +6,12 @@
 </div>
 
 <p></p>
-<img align="right" src="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=default">
+  <img align="right" src="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
+</picture>
+
 
 🎓 I'm a new student studying in computer science and information technology area. Now I am mainly learning
  -  Computer Vision
@@ -25,7 +30,11 @@
 
 ## 💾 Programming Languages and Tools
 
-<img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=default&langs_count=10&hide=Jupyter%20Notebook">
+  <img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+</picture>
 
 <ul>
     <li>
