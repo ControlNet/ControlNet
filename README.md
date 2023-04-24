@@ -6,12 +6,12 @@
 </div>
 
 <p></p>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=default">
   <img align="right" src="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
-</picture>
-
+</picture> -->
+<img align="right" src="https://github-stats-vercel-inky.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
 
 🎓 I'm a new student studying in computer science and information technology area. Now I am mainly learning
  -  Computer Vision
