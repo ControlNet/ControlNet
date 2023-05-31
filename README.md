@@ -19,7 +19,7 @@
  -  Data Science 
  -  Computer Science
 
-🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM ICMI](https://dl.acm.org/conference/icmi), DICTA, CVIP, ICVGIP.
+🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM ICMI](https://dl.acm.org/conference/icmi), [DICTA](https://www.dictaconference.org/), [CVIP](https://vnit.ac.in/cvip2022/), [ICVGIP](https://www.iitrpr.ac.in/ICVGIP/).
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
