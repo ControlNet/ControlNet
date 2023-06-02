@@ -3,6 +3,7 @@
 <div align="center">
  <img src="https://img.shields.io/github/followers/ControlNet?style=flat-square&color=lightblue">
  <img src="https://img.shields.io/github/stars/ControlNet?style=flat-square&color=red">
+ <img src="https://cite.controlnet.space/all.svg">
 </div>
 
 <p></p>
