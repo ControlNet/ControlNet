@@ -1,4 +1,10 @@
+<div align="center">
+  <img src="https://controlnet.space/images/header.svg">
+</div>
+
+<!---
 ## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=ControlNet&fontSize=60)
+-->
 
 <div align="center">
  <img src="https://img.shields.io/github/followers/ControlNet?style=flat-square&color=lightblue">
