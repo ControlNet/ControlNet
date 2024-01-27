@@ -20,7 +20,7 @@
   <img align="right" src="https://github-stats.controlnet.space/api?username=ControlNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
 </picture> -->
 
-<img align="right" src="https://github-stats.controlnet.space/api?username=ControlNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
+<!-- <img align="right" src="https://github-stats.controlnet.space/api?username=ControlNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical"> -->
 
 🎓 I'm a new student studying in computer science and information technology area. Now I am mainly learning
  -  Computer Vision
