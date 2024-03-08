@@ -22,11 +22,10 @@
 
 <!-- <img align="right" src="https://github-stats.controlnet.space/api?username=ControlNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical"> -->
 
-🎓 I'm a new student studying in computer science and information technology area. Now I am mainly learning
- -  Computer Vision
- -  Machine Learning
- -  Data Science 
- -  Computer Science
+🎓 I'm a research fellow (postdoc) studying in Computer Vision and Artificial Intelligence area. Now I am mainly working on
+ -  Video Analysis
+ -  Visual Perceptions
+ -  Deepfakes
 
 🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM TKDD](https://dl.acm.org/journal/tkdd), [INFFUS](https://www.sciencedirect.com/journal/information-fusion), [IEEE TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [ACM MM](https://dl.acm.org/conference/mm), [ACM ICMI](https://dl.acm.org/conference/icmi), [MBE](https://www.aimspress.com/journal/MBE), [DICTA](https://www.dictaconference.org/), [CVIP](https://vnit.ac.in/cvip2022/), [ICVGIP](https://www.iitrpr.ac.in/ICVGIP/).
 
