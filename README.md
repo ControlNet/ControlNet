@@ -27,7 +27,7 @@
  -  Visual Perceptions
  -  Deepfakes
 
-🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM TKDD](https://dl.acm.org/journal/tkdd), [INFFUS](https://www.sciencedirect.com/journal/information-fusion), [IEEE TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [ECCV](https://eccv2024.ecva.net/), [ACM MM](https://dl.acm.org/conference/mm), [ACM ICMI](https://dl.acm.org/conference/icmi), [MBE](https://www.aimspress.com/journal/MBE), [DICTA](https://www.dictaconference.org/), [CVIP](https://vnit.ac.in/cvip2022/), [ICVGIP](https://www.iitrpr.ac.in/ICVGIP/).
+🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM TKDD](https://dl.acm.org/journal/tkdd), [INFFUS](https://www.sciencedirect.com/journal/information-fusion), [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems), [IEEE TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [ECCV](https://eccv2024.ecva.net/), [ACM MM](https://dl.acm.org/conference/mm), [ACM ICMI](https://dl.acm.org/conference/icmi), [MBE](https://www.aimspress.com/journal/MBE), [DICTA](https://www.dictaconference.org/), [CVIP](https://vnit.ac.in/cvip2022/), [ICVGIP](https://www.iitrpr.ac.in/ICVGIP/).
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
