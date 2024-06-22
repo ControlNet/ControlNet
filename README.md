@@ -158,7 +158,7 @@
 
 <p></p>
  
-<div align="center"><img align="center" src="https://count.getloli.com/get/@ControlNet?theme=rule34"></div>
+<div align="center"><img align="center" src="https://getloli.controlnet.space/get/@ControlNet?theme=rule34"></div>
 <!--
 **ControlNet/ControlNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
