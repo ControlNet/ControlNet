@@ -24,8 +24,7 @@
 <!-- <img align="right" src="https://github-stats.controlnet.space/api?username=ControlNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical"> -->
 
 🎓 I'm a research fellow (postdoc) studying in Computer Vision and Artificial Intelligence area. Now I am mainly working on
- -  Video Analysis
- -  Visual Perceptions
+ -  Visual Analysis & Reasoning
  -  Deepfakes
 
 🔎 Reviewer of [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM TKDD](https://dl.acm.org/journal/tkdd), [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), [INFFUS](https://www.sciencedirect.com/journal/information-fusion), [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems), [IEEE TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [ECCV](https://eccv2024.ecva.net/), [ACM MM](https://dl.acm.org/conference/mm), [ICRA](https://icra40.ieee.org/), and more.
