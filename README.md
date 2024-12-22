@@ -151,6 +151,7 @@
 ## 📮 Contact
 
 <div align="center">
+  <a href="https://huggingface.co/ControlNet"><img align="center" src="https://img.shields.io/badge/Huggingface-ControlNet-FFD21E?logo=huggingface&style=for-the-badge">
   <a href="https://controlnet.space"><img align="center" src="https://img.shields.io/badge/Blog-ControlNet-lightblue?logo=hexo&style=for-the-badge">
   <a href="mailto:smczx@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-Hotmail-yellowgreen?logo=minutemailer&style=for-the-badge"></a>
   <a href="https://www.buymeacoffee.com/ControlNet"><img align="center" src="/assets/Buy Me A-Coffee-FFDD00.svg"></img></a>
