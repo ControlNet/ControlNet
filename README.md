@@ -27,7 +27,7 @@
  -  Visual Analysis & Reasoning
  -  Deepfakes
 
-🔎 Reviewer of [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM TKDD](https://dl.acm.org/journal/tkdd), [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), [INFFUS](https://www.sciencedirect.com/journal/information-fusion), [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems), [IEEE TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [ECCV](https://eccv2024.ecva.net/), [ACM MM](https://dl.acm.org/conference/mm), [ICRA](https://icra40.ieee.org/), and more.
+🔎 Reviewer of [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [ACM CSUR](https://dl.acm.org/journal/csur), [ACM TKDD](https://dl.acm.org/journal/tkdd), [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), [INFFUS](https://www.sciencedirect.com/journal/information-fusion), [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems), [IEEE TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [ECCV](https://eccv2024.ecva.net/), [ACM MM](https://dl.acm.org/conference/mm), [ICRA](https://icra40.ieee.org/), and more.
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
