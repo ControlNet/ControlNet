@@ -52,6 +52,8 @@
         <ul>
             <li><a href="https://www.jetbrains.com/pycharm/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/PyCharm-006600?logo=PyCharm&style=flat-square&logoColor=white"
+                        style="max-width:100%;"></a> <a href="https://code.visualstudio.com/" rel="nofollow"><img align="center"
+                        src="https://img.shields.io/badge/VSCode-007ACC?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://www.anaconda.com/" rel="nofollow"><img
                         align="center"
                         src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&style=flat-square&logoColor=white"
@@ -108,7 +110,7 @@
             <li><a href="https://jquery.com/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://d3js.org/" rel="nofollow"><img align="center"
-                        src="https://img.shields.io/badge/d3.js-F9A03C?logo=d3dotjs&style=flat-square&logoColor=white"
+                        src="https://img.shields.io/badge/d3.js-F9A03C?logo=d3&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://vuejs.org/" rel="nofollow"><img align="center"
                         src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=flat-square&logoColor=white"
                         style="max-width:100%;"></a> <a href="https://react.dev/" rel="nofollow"><img align="center"
