@@ -27,7 +27,7 @@
  -  Visual Analysis & Reasoning
  -  Deepfakes
 
-🔎 Reviewer of [CVPR](https://cvpr.thecvf.com/), [ICCV](https://iccv.thecvf.com/), [ECCV](https://eccv2024.ecva.net/), [ACM MM](https://dl.acm.org/conference/mm), [ICRA](https://icra40.ieee.org/), [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), and more.
+🔎 Reviewer of [CVPR](https://cvpr.thecvf.com/), [ICCV](https://iccv.thecvf.com/), [ECCV](https://eccv2024.ecva.net/), [NeurIPS](https://neurips.cc/), [ACM MM](https://dl.acm.org/conference/mm), [ICRA](https://icra40.ieee.org/), [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369), and more.
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
