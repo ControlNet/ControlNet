@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://controlnet.space/images/header.svg">
+  <img src="/assets/header.svg">
 </div>
 
 <!---
