@@ -23,8 +23,8 @@
 
 <!-- <img align="right" src="https://github-stats.controlnet.space/api?username=ControlNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical"> -->
 
-🎓 I'm a research fellow (postdoc) studying in Computer Vision and Artificial Intelligence area. Now I am mainly working on
- -  Visual Analysis & Reasoning
+🎓 I'm a lecturer studying in Multi-modal Agentic AI. Now I am mainly working on
+ -  Visual/Multimodal Reasoning
  -  Neuro-Symbolic & AI Agent
  -  Deepfakes
 
