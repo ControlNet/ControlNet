@@ -26,6 +26,7 @@
 🎓 I'm a lecturer studying in Multi-modal Agentic AI. Now I am mainly working on
  -  Visual/Multimodal Reasoning
  -  Neuro-Symbolic & AI Agent
+ -  Multi-Agent Orchestration
  -  Deepfakes
 
 ⭐ Area Chair of [IROS](https://2026.ieee-iros.org/).
