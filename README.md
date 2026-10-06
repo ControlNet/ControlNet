@@ -35,7 +35,7 @@
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
-🧰 Also, I love discovering and fine-tuning tools in my hand; both software tools and physical tools ([zsh environment](https://github.com/ControlNet/envira/), [syntax highlighting](https://github.com/ControlNet/Material-Darcula)). 
+🧰 Also, I love discovering and fine-tuning tools in my hand; both software tools and physical tools ([agent setup](https://github.com/ControlNet/oma-dotfile), [zsh environment](https://github.com/ControlNet/envira/), [syntax highlighting](https://github.com/ControlNet/Material-Darcula)). 
 
 🔔 [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) is a great work and uses the same name, but it's unrelated to me.
 
